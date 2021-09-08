@@ -9,11 +9,15 @@
 
 ## Link to the application on Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://project.herokuapp.com/)
+
 ## Link to the Continuous Integration System (Circle CI)
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/2021-2-PROYIETI-EZPZ/Project)
 
 ## Link to Codacy
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5d0d10d1d53346b88e97ef3a1af4a76c)](https://www.codacy.com/gh/2021-2-PROYIETI-EZPZ/Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=2021-2-PROYIETI-EZPZ/Project&amp;utm_campaign=Badge_Grade)
 
 ## Link to Wireframe
 
