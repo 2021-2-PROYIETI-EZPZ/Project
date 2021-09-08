@@ -11,6 +11,8 @@
 
 ## Link to the Continuous Integration System (Circle CI)
 
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/2021-2-PROYIETI-EZPZ/Project)
+
 ## Link to Codacy
 
 ## Link to Wireframe
