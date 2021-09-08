@@ -2,6 +2,11 @@
 
 ## Product Description
 
+## Project Repositories
+
+* [Project Front-End](https://github.com/2021-2-PROYIETI-EZPZ/Front-End).
+* [Project Back-End](https://github.com/2021-2-PROYIETI-EZPZ/Back-End).
+
 ## Link to the application on Heroku
 
 ## Link to the Continuous Integration System (Circle CI)
@@ -11,11 +16,6 @@
 ## Link to Wireframe
 
 [Wireframe](https://wireframepro.mockflow.com/view/McxjV64IGmb#/page/c6ac83061cea49078f6b264635a1b8b1)
-
-## Project Repositories
-
-* [Project Front-End](https://github.com/2021-2-PROYIETI-EZPZ/Front-End).
-* [Project Back-End](https://github.com/2021-2-PROYIETI-EZPZ/Back-End).
 
 ## Members
 [Alejandro Toro Daza](https://github.com/Skullzo)
