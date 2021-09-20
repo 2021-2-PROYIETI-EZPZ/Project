@@ -23,6 +23,10 @@
 
 [Wireframe](https://wireframepro.mockflow.com/view/McxjV64IGmb#/page/c6ac83061cea49078f6b264635a1b8b1)
 
+## Link to Trello
+
+[Trello](https://trello.com/b/P9ID0gwm/proyecto-final-eci)
+
 ## Members
 [Alejandro Toro Daza](https://github.com/Skullzo)
 
