@@ -1,6 +1,8 @@
-# Project Name
+# Ez Browser
 
 ## Product Description
+
+**Ez Broswer** is a web platform where users can search for any type of products they are interested in buying. The platform collects products searched by the user from all stores, comparing prices and showing the best option with the best price, saving the customer time from having to resort to searching page by page looking at prices, **Ez Browser** does it automatically to have a better shopping experience.
 
 ## Project Repositories
 
