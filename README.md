@@ -1,4 +1,4 @@
-# Ez Browser
+# Ez Browser 🔍
 
 ## Product Description
 
