@@ -12,7 +12,7 @@
 
 ## Link to the application on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://project.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://ezbrowser-frontend.herokuapp.com/)
 
 ## Link to the Continuous Integration System (Circle CI)
 
